@@ -1,0 +1,13 @@
+.grid{
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+}
+.grid-wrapper{
+    color: white;
+}
